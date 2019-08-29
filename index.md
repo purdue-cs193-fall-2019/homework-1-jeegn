@@ -1,8 +1,8 @@
 # Jeegn's First CS193 Homework
 
--Friendly "Lecturers"
--No exams
--Fun Homeworks
+- Friendly "Lecturers"
+- No exams
+- Fun Homeworks
 
 ## Welcome to GitHub Pages
 
